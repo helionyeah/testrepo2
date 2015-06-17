@@ -26,3 +26,4 @@ A simple demo that prints the server's environment variables.
     
    how many chickens
    12 chickens!
+chicken
