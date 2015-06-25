@@ -28,3 +28,5 @@ A simple demo that prints the server's environment variables.
    12 chickens!
 chicken
 test merge yay!
+
+moar tests
