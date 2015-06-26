@@ -54,3 +54,5 @@ con mèo
 macska
 
 ネコ!
+
+kedi
