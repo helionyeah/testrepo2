@@ -52,3 +52,5 @@ mushuk
 con mèo
 
 macska
+
+ネコ!
