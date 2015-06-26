@@ -46,3 +46,5 @@ cat gato قط kato муур קאַץ חתול köttur বিড়াল kissa  
 kot
 
 แมว
+
+mushuk
