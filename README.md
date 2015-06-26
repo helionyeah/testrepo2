@@ -48,3 +48,5 @@ kot
 แมว
 
 mushuk
+
+con mèo
