@@ -50,3 +50,5 @@ kot
 mushuk
 
 con mèo
+
+macska
