@@ -68,3 +68,5 @@ super mario cats
 luigi's cats 2
 
 mario cats for wii u
+
+mario cats 8
