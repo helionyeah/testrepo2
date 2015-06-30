@@ -72,3 +72,4 @@ mario cats for wii u
 mario cats 8
 
 but how many chickens
+3
